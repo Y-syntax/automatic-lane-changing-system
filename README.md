@@ -18,14 +18,15 @@ Arduino-based prototype built as part of the Idea Lab course.
 
 ## 👨‍💻 Team
 
-- [Your Name](https://www.linkedin.com/in/yourprofile)
-- [Teammate 1]
-- [Teammate 2]
-- [Teammate 3]
+- Yadu S Rajeev(https://www.linkedin.com/in/yadu-s-rajeev/)
+- Parthiv P(https://www.linkedin.com/in/parthiv-p-3b0322328/)
+- Vaishnav V Bishoy(https://www.linkedin.com/in/vaishnav-v-bishoy-1b6b27328/)
+- S R Amarnath(https://www.linkedin.com/in/amarnath-nair-a19876305/)
+- Sreya S
 
 ## 🎥 Demo
 
-*Include video/images if available*
+https://drive.google.com/drive/folders/10ljloLMnLdV_eLatxBqLP8IP37b6zlje?usp=drive_link
 
 ## 📝 License
 
