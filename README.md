@@ -28,6 +28,8 @@ Arduino-based prototype built as part of the Idea Lab course.
 
 https://drive.google.com/drive/folders/10ljloLMnLdV_eLatxBqLP8IP37b6zlje?usp=drive_link
 
+📄 Check out car_new_documented.ino for a fully commented version of the code.
+
 ## 📝 License
 
 MIT License
